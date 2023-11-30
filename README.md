@@ -6,7 +6,7 @@ Downloading "Journal - Drawing a Map of Elections (small)" suffices to replicate
 with exception for tables 2,3, and 4. To replicate the results of these tables you must download also the
 "Journal - Drawing a Map of Elections (large datasets)".
 
-To replicate the computations (for figuers) run:
+To replicate the computations (for figures) run:
 compute_fig_1a.py
 compute_fig_1b.py
 compute_fig_2.py
@@ -28,7 +28,7 @@ compute_fig_17.py
 compute_fig_18abcd.py
 compute_fig_18efgh.py
 
-To print the figuers run:
+To print the figures run:
 print_fig_1a.py
 print_fig_1b.py
 print_fig_2.py
